@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoViewpager</string>
+    <string name="txt_demo">ViewPager Demo</string>
+    <string name="title_page_pink">Pink</string>
+    <string name="title_page_cyan">Cyan</string>
+    <string name="title_page_yellow">Yellow</string>
+    <string name="button">Click me</string>
+</resources>
